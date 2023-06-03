@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mytests | </title>
+    <link>/mytest/</link>
+      <atom:link href="/mytest/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mytests</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/media/icon_hud0ce531716296da633c567fb13fa2911_442_512x512_fill_lanczos_center_3.png</url>
+      <title>Mytests</title>
+      <link>/mytest/</link>
+    </image>
+    
+    <item>
+      <title>First</title>
+      <link>/mytest/first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/mytest/first/</guid>
+      <description>&lt;h2 id=&#34;我的测试&#34;&gt;我的测试&lt;/h2&gt;
+&lt;h2 id=&#34;列表&#34;&gt;列表&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;sdfaf&lt;/li&gt;
+&lt;li&gt;sfafa&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

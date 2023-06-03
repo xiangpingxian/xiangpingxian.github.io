@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | </title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Jun 2023 14:52:06 +0800</lastBuildDate>
+    <image>
+      <url>/media/icon_hud0ce531716296da633c567fb13fa2911_442_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>Performance of green concrete pipes made exclusively from carbon-activated steel slag</title>
+      <link>/project/engineering/</link>
+      <pubDate>Sat, 03 Jun 2023 14:52:06 +0800</pubDate>
+      <guid>/project/engineering/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
